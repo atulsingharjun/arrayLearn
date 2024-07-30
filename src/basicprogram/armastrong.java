@@ -25,7 +25,7 @@ public class armastrong {
 		//arm =arm+Math.pow(rem,len);
 		arm=arm+Math.pow( rem,len);
 		t2=t2/10;
-		//
+		
 //		int mul=1;
 //		rem = t2%10;
 //		for(int i=1;i<=len;i++) {
