@@ -7,7 +7,7 @@ public class Abstrac {
 public static void main(String[] args) {
 	
 	List <String> st = new ArrayList<String>();
-	
+	//
 	st.add("Pink");
 	st.add("blue");
 	
